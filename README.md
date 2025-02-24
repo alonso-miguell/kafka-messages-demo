@@ -26,5 +26,5 @@
 - Same as above, just change url path `http://localhost:9090/sendByOther?msg=item5`
 
 ## Extra info
-- `https://javatechonline.com/how-to-work-with-apache-kafka-in-spring-boot/`
-- `https://medium.com/@abhishekranjandev/a-comprehensive-guide-to-integrating-kafka-in-a-spring-boot-application-a4b912aee62e`
+- https://javatechonline.com/how-to-work-with-apache-kafka-in-spring-boot/
+- https://medium.com/@abhishekranjandev/a-comprehensive-guide-to-integrating-kafka-in-a-spring-boot-application-a4b912aee62e
